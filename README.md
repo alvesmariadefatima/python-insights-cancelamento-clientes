@@ -1,6 +1,6 @@
-# Python Insights — Cancelamento de Clientes (Churn)
+# Python Insights — Cancelamento de Clientes 📉
 
-> Um projeto de **análise de dados** que simula um cenário extremamente comum em empresas: **entender por que clientes estão cancelando** e **o que pode ser feito para reduzir o cancelamento (churn)** usando dados reais (ou realistas) e **decisões orientadas por evidências**.
+Um projeto de **análise de dados** que simula um cenário extremamente comum em empresas: **entender por que clientes estão cancelando** e **o que pode ser feito para reduzir o cancelamento (churn)** usando dados reais (ou realistas) e **decisões orientadas por evidências**.
 
 ---
 
@@ -81,10 +81,12 @@ Aqui, a meta não é “fazer gráficos bonitos”: é **gerar insights acionáv
 # Windows
 
 ``python -m venv .venv``
+<br>
 ``.venv\Scripts\activate``
 
 # MacOS/Linux
 ``python3 -m venv .venv``
+<br>
 ``source .venv/bin/activate``
 
 # Instalar dependências
